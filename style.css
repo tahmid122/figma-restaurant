@@ -80,6 +80,9 @@ header{
 .card-img img{
     width: 50px;
 }
+.card-desc h4{
+    margin-bottom: 5px;
+}
 .about{
     margin-bottom: 30px;
 }
