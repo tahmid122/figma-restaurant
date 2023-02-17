@@ -168,7 +168,8 @@ ul li{
         height: auto;
     }
     .menu-item{
-        padding: 20px 10px;
+        padding: 20px 5px;
+        grid-gap: 5px;
     }
     .intro-desc{
         width: 65%;
