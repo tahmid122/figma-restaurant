@@ -167,6 +167,9 @@ ul li{
         max-width: 400px;
         height: auto;
     }
+    .menu-item{
+        padding: 20px 10px;
+    }
     .intro-desc{
         width: 65%;
     }
@@ -198,7 +201,7 @@ ul li{
 }
 @media screen and (max-width:600px){
     .intro-img-style{
-        max-width: 300px;
+        max-width: 250px;
         height: auto;
     }
 }
